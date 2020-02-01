@@ -1,0 +1,5 @@
+cd--change directory
+mkdir--create a folder
+ls--to see list
+touch-create a file
+vi/nano-editor
